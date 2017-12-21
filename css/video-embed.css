@@ -216,9 +216,6 @@ a > img {
 
 .comment-image {
     flex-direction: column;
-    height:50px;
-    width: 50px;
-    background-color:#ddd;
 }
 
 .comments-text {
