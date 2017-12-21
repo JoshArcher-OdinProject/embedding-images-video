@@ -1,4 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "The Odin Project - embedding images and video"
-theme = "video-embed"
